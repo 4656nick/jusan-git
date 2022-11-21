@@ -50,8 +50,8 @@ int main() {
 
 | Платформа | Ссылка | Отвечу за |
 | --------- | ------ | --------- |
-| Почта     | [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) | 24 часа |
-| LinkedIn  | [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) | 3 часа  |
-| WhatsApp  | [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) | 30 минут |
-| Telegram  | [ссылка](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) | 5 минут |
+| Почта     | [ссылка](https://www.youtube.com/watch?v=INVbXpNsuPI) | 24 часа |
+| LinkedIn  | [ссылка](https://www.youtube.com/watch?v=INVbXpNsuPI) | 3 часа  |
+| WhatsApp  | [ссылка](https://www.youtube.com/watch?v=INVbXpNsuPI) | 30 минут |
+| Telegram  | [ссылка](https://www.youtube.com/watch?v=INVbXpNsuPI) | 5 минут |
 
